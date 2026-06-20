@@ -1,3 +1,10 @@
+** THIS IS WORK IN PROGRESS **
+** DO NOT JUDGE A TEMPORY PRODUCT WITTH A FINAL DECISION TY **
+
+
+
+
+
 This is a Warcraft 3 campaign encyclopedia/reference app.
 
 
